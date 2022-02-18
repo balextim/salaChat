@@ -1,5 +1,10 @@
 # Cliente para una sala de chat
 
+
+#Abigail Chávez
+
+
+
 import socket
 from threading import Thread
 from datetime import datetime

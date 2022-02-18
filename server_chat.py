@@ -1,5 +1,5 @@
 # Servidor para una sala de chat
-
+#Breyner Alexander Timana
 import socket
 from threading import Thread
 from datetime import datetime
